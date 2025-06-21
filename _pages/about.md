@@ -15,6 +15,21 @@ With hands-on experience across a wide range of ECE fields, I'm able to learn qu
 I bring strong problem-solving skills from years of working on challenging design and coding tasks, and I thrive in team environments where collaboration and idea exchange lead to better outcomes.
 
 
+## Education
+* **M.Sc. Student in Computer Engineering** <br>
+**Iran University of Science and Technology (IUST), Tehran, Iran** <br>
+  * Thesis: _A novel method to reduce power consumption in convolutional neural network accelerators_ <br>
+  * Advisor: <a href="https://scholar.google.com/citations?hl=en&user=SMnMHbQAAAAJ&view_op=list_works&sortby=pubdate" style="color: #0011DB;"> Prof. Hakem Beitollahi</a> <br>
+  * GPA: 18.05/20
+ 
+* **B.Sc. Student in Electrical Engineering (Electronics)** <br>
+**Isfahan University of Technology (IUT), Isfahan, Iran** <br>
+  * Thesis: _Implementation of a software infrastructure for supervision and recording events in IOT_ <br>
+  * Advisor: <a href="https://scholar.google.com/citations?user=34Wz0nAAAAAJ&hl=en" style="color: #0011DB;"> Prof. Amir Khorsandi</a> <br>
+  * GPA: 15.99/20
+
+
+
 **My Research Interests Include:**
 - AI Hardware Accelerator
 - Reconfigurable Computing
