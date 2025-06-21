@@ -8,12 +8,7 @@ redirect_from:
 ---
 
 
-Hi! I’m Sajad, a Computer Engineering graduate student at <a href="https://www.iust.ac.ir/" style="color: #0011DB; text-decoration: underline;"> Iran University of Science and Technology (IUST)</a>. I'm an autodidact engineer and a fearless problem solver with a strong passion for computers and electronics. As a self-taught programmer, I spend most of my time learning, building, and exploring new technologies with high energy and enthusiasm.
-
-With hands-on experience across a wide range of ECE fields, I'm able to learn quickly, adapt fast, and tackle problems from multiple angles.
-
-I bring strong problem-solving skills from years of working on challenging design and coding tasks, and I thrive in team environments where collaboration and idea exchange lead to better outcomes.
-
+Hi! I’m Sajad, a graduate student in Computer Engineering at the <a href="https://www.iust.ac.ir/" style="color: #0011DB; text-decoration: underline;">Iran University of Science and Technology (IUST)</a>. I’m an autodidact engineer and a fearless problem solver with a deep enthusiasm for computers and electronics. As a self-driven programmer, I spend much of my time exploring, building, and learning new technologies with passion and focus. My hands-on experience spans a broad spectrum of ECE disciplines, allowing me to pick up new skills quickly, adapt to different challenges, and approach problems from various perspectives. Over the years, tackling complex design and programming projects has sharpened my problem-solving abilities. I also thrive in collaborative environments, where shared ideas and teamwork push projects to the next level.
 
 ## Education
 * **M.Sc. Student in Computer Engineering** <br>
@@ -45,4 +40,4 @@ I bring strong problem-solving skills from years of working on challenging desig
 - Listening To Music
 - Reading Books
 
-  If you feel we have a common ground, feel free to send me a connection request on <a href="https://www.linkedin.com/in/sajad-eydivandi/" style="color: #0011DB; text-decoration: underline;">Linkedin</a> or challenge me to a chess match on <a href="https://lichess.org/@/Sandor_EDV_Clegane" style="color: #0011DB; text-decoration: underline;">Lichess</a>!
+  If you feel we have a common ground, feel free to send me a connection request on <a href="https://www.linkedin.com/in/sajad-eydivandi/" style="color: #0011DB; text-decoration: underline;">Linkedin</a> or challenge me to a chess match on <a href="https://lichess.org/@/Sandor_EDV_Clegane" style="color: #0011DB; text-decoration: underline;">Lichess</a>! for more information about my experiences, notable projects, and skills, you can download my <iframe src="https://drive.google.com/file/d/1VD6WwWff-g8DXrJWbXGDhJDAYOQwDfc3/preview" width="640" height="480" allow="autoplay">CV</iframe>.
