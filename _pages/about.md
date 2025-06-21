@@ -40,4 +40,4 @@ Hi! I’m Sajad, a graduate student in Computer Engineering at the <a href="http
 - Listening To Music
 - Reading Books
 
-  If you feel we have a common ground, feel free to send me a connection request on <a href="https://www.linkedin.com/in/sajad-eydivandi/" style="color: #0011DB; text-decoration: underline;">Linkedin</a> or challenge me to a chess match on <a href="https://lichess.org/@/Sandor_EDV_Clegane" style="color: #0011DB; text-decoration: underline;">Lichess</a>! for more information about my experiences, notable projects, and skills, you can download my <iframe src="https://drive.google.com/file/d/1VD6WwWff-g8DXrJWbXGDhJDAYOQwDfc3/preview" width="640" height="480" allow="autoplay">CV</iframe>.
+  If you feel we have a common ground, feel free to send me a connection request on <a href="https://www.linkedin.com/in/sajad-eydivandi/" style="color: #0011DB; text-decoration: underline;">Linkedin</a> or challenge me to a chess match on <a href="https://lichess.org/@/Sandor_EDV_Clegane" style="color: #0011DB; text-decoration: underline;">Lichess</a>!
