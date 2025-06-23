@@ -15,4 +15,4 @@ redirect_from:
 If the embedded PDF below does not load, you can <a href="https://github.com/SajadEydivandi/SajadEydivandi.github.io/blob/master/files/cv.pdf" style="color: #0011DB; text-decoration: underline;">download it here.</a>
 <br/>
 
-<embed src="https://github.com/SajadEydivandi/SajadEydivandi.github.io/blob/master/files/cv.pdf" type="application/pdf" width="100%" />
+<iframe src="https://drive.google.com/file/d/1VD6WwWff-g8DXrJWbXGDhJDAYOQwDfc3/preview" width="640" height="480" allow="autoplay"></iframe>
