@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <a href="https://github.com/SajadEydivandi/SajadEydivandi.github.io/blob/master/files/cv.pdf" style="color: #0011DB; text-decoration: underline;">download it here.</a>
+If the embedded PDF below does not load, you can <a href="https://drive.google.com/file/d/1VD6WwWff-g8DXrJWbXGDhJDAYOQwDfc3/view?usp=sharing" style="color: #0011DB; text-decoration: underline;">download it here.</a>
 <br/>
 
 <iframe src="https://drive.google.com/file/d/1VD6WwWff-g8DXrJWbXGDhJDAYOQwDfc3/preview" width="640" height="480" allow="autoplay"></iframe>
