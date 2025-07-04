@@ -12,5 +12,5 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can download the CV from <a href="https://drive.google.com/file/d/1VD6WwWff-g8DXrJWbXGDhJDAYOQwDfc3/view?usp=sharing" style="color: #0011DB; text-decoration: underline;">here.</a>
+You can download my CV file from <a href="https://drive.google.com/file/d/1VD6WwWff-g8DXrJWbXGDhJDAYOQwDfc3/view?usp=sharing" style="color: #0011DB; text-decoration: underline;">here.</a>
 <br/>
