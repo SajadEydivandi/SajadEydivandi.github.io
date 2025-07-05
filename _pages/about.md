@@ -13,7 +13,7 @@ Hi! I’m Sajad, a graduate student in Computer Engineering at the <a href="http
 ## Education
 * **M.Sc. Student in Computer Engineering** <br>
 **Iran University of Science and Technology (IUST), Tehran, Iran** <br>
-  * Thesis: _A novel method to reduce power consumption in convolutional neural network accelerators_ <br>
+  * Thesis: _A novel method to reduce power consumption in Convolutional Neural Network (CNN) accelerators_ <br>
   * Advisor: <a href="https://scholar.google.com/citations?hl=en&user=SMnMHbQAAAAJ&view_op=list_works&sortby=pubdate" style="color: #0011DB;"> Prof. Hakem Beitollahi</a> <br>
   * GPA: 18.05/20
  
